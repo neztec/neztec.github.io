@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Welcome to Jekyll! (Neztec Style)"
 date:   2023-09-27 21:36:21 -0400
 categories: jekyll update
