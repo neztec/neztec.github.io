@@ -1,0 +1,31 @@
+# https://en.wikipedia.org/wiki/Star_Trek#The_Original_Series_.281966.E2.80.9369.29
+
+- name: Space Out
+  from: 2009-06-08
+  to: 2009-11-01
+  description: Captain James T. Kirk, Spock
+  link: https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series
+
+- name: Serentripiti
+  from: 2009-11-16
+  to: 2012-06-31
+  description:
+  link:
+
+- name: Colliding Forces
+  from: 2011-11-25
+  to: 2015-03-02
+  description: Captain Jean-Luc Picard, Enterprise-D
+  link: https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation
+
+#- name: Deep Space Nine
+#  from: 1993-01-03
+#  to: 1999-06-02
+#  description: First to use CGI, last connected with Gene Roddenberry
+#  link: https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine
+
+- name: Gravity Farms
+  from: 2016-08-23
+  to: 2017-02-14
+  description: Captain Kathryn Janeway, USS Voyager
+  link: https://en.wikipedia.org/wiki/Star_Trek:_Voyager
