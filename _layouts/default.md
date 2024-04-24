@@ -23,13 +23,13 @@
   </head>
   <body>
       <div id="header">
-        <nav>
+        <!-- <nav>
           <ul>
               <li class="title"><a href="/projects">PROJECTS</a></li>
               <li class="title">SKILLS</li>
               <li class="title">HOME</li>
           </ul>
-        </nav>
+        </nav> -->
       </div><!-- end header -->
 
     <div class="wrapper">

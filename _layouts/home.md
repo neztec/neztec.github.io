@@ -127,3 +127,9 @@ Your browser does not support the video tag.
 <img src="{{serentripiti_images}}Serentripiti_9.JPG" height="100">
 <img src="{{serentripiti_images}}Serentripiti_10.JPG" height="100">
 <img src="{{serentripiti_images}}Serentripiti_11.JPG" height="100">
+
+<hr />
+<br />
+<div class="centered-link">
+    <a href="https://www.linkedin.com/in/michael-leonardo-17504b2/" target="_blank">Contact me via LinkedIn!</a>
+</div>
