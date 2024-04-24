@@ -36,6 +36,20 @@ Hi, I'm Mike Leonardo, an exceptional Principal Engineer with strong technical s
 2. ClearWater AR App
 3. Toybox AR App
 
+{% assign jhop_media = site.url | append: '/assets/xr_dev_media/jhop/' %}
+<video autoplay muted loop width="400" height="300">
+
+    <source src="{{jhop_media}}Gauges-Follow-Mode.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+
+</video>
+<video autoplay muted loop width="400" height="300">
+
+    <source src="{{jhop_media}}Gauges-Follow-Mode.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+
+</video>
+
 <h2>Game Development Projects</h2>
 
 <h3>Serentripiti</h3>

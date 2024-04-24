@@ -8,3 +8,10 @@ section #title {
 h1 {
   margin-left: -10px;
 }
+
+/* Ensure video is responsive */
+video {
+  max-width: 100%; /* Maximum width of the video */
+  height: auto; /* Maintain aspect ratio */
+  width: auto\9; /* IE8 and below fix */
+}
