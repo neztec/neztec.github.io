@@ -9,9 +9,60 @@ h1 {
   margin-left: -10px;
 }
 
+h2 {
+  margin-top: 20px;
+}
+
+hr {
+  margin-top: 10px;
+}
+
+.center-container {
+  display: flex;
+  align-items: center; /* Center vertically */
+}
+
+.float-left {
+  float: left;
+  margin-right: 10px; /* Adjust as needed */
+}
+
+.wrapper {
+  width: 100%; /* Adjust the width as needed */
+}
+
+img.resp {
+  max-width: 100%; /* Maximum width of the video */
+  height: auto; /* Maintain aspect ratio */
+  width: auto\9; /* IE8 and below fix */
+}
+
 /* Ensure video is responsive */
 video {
   max-width: 100%; /* Maximum width of the video */
   height: auto; /* Maintain aspect ratio */
   width: auto\9; /* IE8 and below fix */
+}
+
+/* Flex container for videos */
+.video-container {
+  display: flex;
+  justify-content: space-between; /* Distribute space between videos */
+  max-width: 100%; /* Ensure videos don't overflow container */
+  margin-bottom: 20px; /* Add some spacing between rows */
+  margin-left: 10px;
+}
+
+.video-container video {
+  padding-right: 15px;
+}
+
+.video-container p {
+  padding-right: 15px;
+}
+
+/* Style for individual video */
+.video-container video {
+  max-width: 45%; /* Adjust the width of each video */
+  height: auto; /* Maintain aspect ratio */
 }

@@ -12,6 +12,5 @@ title: test-2
   <div class="post-content">
     {{ content }}
   </div>
-  
+
 </article>
-[End Page Layout]
