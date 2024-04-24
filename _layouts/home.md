@@ -8,7 +8,7 @@ title: test-1
 <!-- <img src="{{cf_images}}colliding_forces_5.PNG" height="300" class="align-right" > -->
 
 <p>
-Hi, I'm Mike Leonardo, an experienced Principal Software Engineer with strong technical skills, effective leadership, and a unique talent for bringing clarity, simplicity, and creativity to any project. I'm on a mission to leverage my talents to craft unique and satisfying experiences.</p>
+Hi, I'm Mike Leonardo, an experienced Principal Software Engineer with strong technical skills, effective leadership, and a talent for bringing clarity, simplicity, and creativity to any project. I'm on a mission to leverage my talents to craft unique and satisfying experiences.</p>
 
 <hr />
 
