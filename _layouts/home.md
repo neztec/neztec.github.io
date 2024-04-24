@@ -53,7 +53,7 @@ Your browser does not support the video tag.
 
 <h4>Synethic Vision - Confidence Ring</h4>
 <div class="video-container">
-<p>Projected terrain that also reflects the confidence level of terrain detected by the aircraft's instruments</p>
+<p>Projected terrain that visualizes the confidence level of the area detected by the aircraft's instruments with different colors and resolutions of wireframe polygons</p>
 <video autoplay muted loop width="400" height="300">
 <source src="{{jhop_media}}Scenario-A-Syn-Vision-Confidence-Ring.mp4" type="video/mp4">
 Your browser does not support the video tag.
@@ -80,6 +80,11 @@ Your browser does not support the video tag.
 {% assign gf_images = site.url | append: '/assets/game_dev_media/gravity_farms/' %}
 <img src="{{gf_images}}icon.png" class="float-left" height="100">
 <p>A fast paced local multiplayer competitive space farming game. Players and up to three friends battle as they try to plant, grow, and harvest the most Gravity Blossoms. With one-button controls players quickly learn how to navigate smoothly through asteroid belts using a trusty Gravity Beam. Meanwhile, troublesome pests like Space Goats and Chill-kens make farming life hard for you and your opponents!</p>
+<div class="center-container">
+<img src="{{gf_images}}screen1.PNG" height="300"> 
+<img src="{{gf_images}}screen2.PNG" height="300">
+</div>
+<br/>
 
 <img src="{{gf_images}}players.gif" height="100">
 <img src="{{gf_images}}eating.gif" height="100">
@@ -89,7 +94,10 @@ Your browser does not support the video tag.
 
 <img src="{{cf_images}}icon.png" class="float-left" height="100">
 <p>A two-player turn-based strategy game played on a table top with a tablet or mobile device. Players use earth, fire, wind and water as they fight to take control of the board and achieve victory over their opponent. Elemental pucks with unique abilities allow you to destroy, repel, and even control your opponent's pieces in a game that features the mechanics of air hockey combined with the strategy and cunning of chess.</p>
-<img src="{{cf_images}}cf_board.PNG" height="300">
+<div class="center-container">
+<img src="{{cf_images}}board2.PNG" height="300">
+<img src="{{cf_images}}wind1.PNG" height="300">
+</div>
 <!-- 
 <img src="{{cf_images}}board-frag.png" class="resp" height="200">
 <img src="{{cf_images}}cf_banner.png" class="resp" height="200">
@@ -102,7 +110,7 @@ Your browser does not support the video tag.
 <img src="{{cf_images}}colliding_forces_3.JPG" height="100">
 <img src="{{cf_images}}colliding_forces_8.JPG" height="100">
 
-<h2>Serentripiti</h2>
+<h2>Serentripity</h2>
 {% assign serentripiti_images = site.url | append: '/assets/game_dev_media/serentripiti/' %}
 
 <img src="{{serentripiti_images}}serentripiti_icon_rounded.png" class="float-left" height="100">
